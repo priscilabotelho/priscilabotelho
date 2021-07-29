@@ -1,13 +1,13 @@
 ## Oiii! Eu sou a Priscila Botelho
 
- - 🔭 Hoje eu trabalho com Arquitetura DevOps
+ - 🔭 Atualmente trabalho com Arquitetura DevOps
  - 🌱 Estudante de Redes de Computadores 
  - 😄 Pronouns: Ela/Dela
 
  <div>
   <a href="https://github.com/priscilabotelho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilabotelho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilabotelho&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilabotelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilabotelho&layout=dracula&langs_count=7&theme=tokyonight"/>
 </div>
 
   <div style="display: inline_block"><br>
