@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Priscila Botelho
 
- - 🔭 Atualmente trabalho com Arquitetura DevOps
+ - 🔭 Atualmente trabalho com DevOps
  - 🌱 Estudante de Redes de Computadores 
  - 😄 Pronouns: Ela/Dela
 
